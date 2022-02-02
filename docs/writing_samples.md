@@ -7,5 +7,5 @@
 ## Sample 2
 
 ```pdf
-lorem.pdf
+content/lorem.pdf
 ```
