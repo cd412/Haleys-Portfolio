@@ -2,8 +2,10 @@
 
 ## Sample 1
 
-> lorem
+> The quick brown fox jumps over the lazy dog
 
 ## Sample 2
 
-> ipsum
+```pdf
+lorem.pdf
+```
