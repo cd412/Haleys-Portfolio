@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
-
-* [**Home**](/)
-* [**Writing Samples**](writing_samples.md "Writing Samples")
-* [**Resume**](resume.md "Resume")
-* **Blog**
-    * [Blog Post 1](blog/blog_post_1.md "The beginning")
-    * [Blog Post 2](blog/blog_post_2.md "The end")
+<!-- markdownlint-disable-next-line first-line-heading -->
+- [About Me](/?id=about-me)
+- [Resume](resume.md "Resume")
+- [Writing Samples](writing_samples.md "Writing Samples")
+- **Links**
+- [![Linkedin](images/linkedin.svg)Linkedin](https://www.linkedin.com/in/haleyerkier/)
+- [📝 Blog](https://englishescapadeshk.wordpress.com/ "Blog")

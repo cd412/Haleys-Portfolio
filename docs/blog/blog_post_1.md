@@ -1,3 +1,0 @@
-# Blog Post 1
-
-Once upon a time...
