@@ -3,7 +3,12 @@
 
 ## Education
 
-**Univerisity of Rhode Island** _B.A. English and Writing_
+**Univerisity of Rhode Island**, Kingston, RI
+
+  May 2019 _B.A. English & Writing and Rhetoric_
+
+GPA: 3.72 (Major GPAs: 4.00), Dean’s List
+
 
 ## Relevant Experience
 
